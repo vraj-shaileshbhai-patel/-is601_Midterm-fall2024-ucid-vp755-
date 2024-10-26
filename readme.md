@@ -31,6 +31,3 @@ This project uses environment variables to configure logging settings such as lo
 
 The project follows both "Look Before You Leap" (LBYL) and "Easier to Ask for Forgiveness than Permission" (EAFP) approaches in exception handling. This ensures robust error handling while maintaining clean and efficient code.
 
-## Testing and Code Coverage
-
-The project achieves over 90% test coverage using Pytest, with all tests running successfully via GitHub Actions. PEP 8 compliance is enforced and verified by Pylint.
